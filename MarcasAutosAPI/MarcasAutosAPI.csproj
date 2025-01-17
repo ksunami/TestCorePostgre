@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>849c1611-243b-4966-a4ca-e026f59bebbd</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <StartupObject>MarcasAutosAPI.Program</StartupObject>
+    <StartupObject>MarcasAutosAPI.Program</StartupObject> 
   </PropertyGroup>
 
   <ItemGroup>
